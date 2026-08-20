@@ -115,3 +115,7 @@ InsightFace downloads the `buffalo_l` model weights on first run.
 - All data is stored locally in plain files. Deploying this against real
   missing-persons data would require access control, encryption at rest, and
   a retention policy.
+
+## License
+
+[MIT](LICENSE)
