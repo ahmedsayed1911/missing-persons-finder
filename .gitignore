@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+
+# Runtime data and derived index
+posts/
+posts.json
+chroma_db/
+*.sqlite3
+
+# Packaging
+build/
+dist/
+*.spec
